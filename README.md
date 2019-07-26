@@ -9,6 +9,7 @@ As a result, I lost control over the functions of the second button.
 I informed the developer about the problem:
 
 bugreport - https://github.com/openhab/org.openhab.binding.zwave/issues/1031
+
 OpenHub Discussion - https://community.openhab.org/t/tkb-tz65d-as-tz35s/76157
 
 This script locally fixes the problem.
