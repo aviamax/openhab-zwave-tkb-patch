@@ -1,6 +1,6 @@
 # openhab-zwave-tkb-patch
 
-A switch TKB HOME TZ35S has been added to the device database. The z-wave device id 0808:0808 was transferred from TZ65D(dual-dutton) to TZ35S (single-button).
+A switch TKB HOME TZ35S has been added to the z-wave device database. The z-wave device id 0808:0808 was transferred from TZ65D(dual-dutton) to TZ35S (single-button).
 
 These changes led to the fact that my two-button switches in openHab began to be defined as one-button.
 
